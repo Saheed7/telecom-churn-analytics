@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-An end-to-end data science pipeline for predicting telecom customer churn — from raw data ingestion and exploratory data analysis (EDA) through feature engineering, model training, evaluation, and interactive dashboard deployment.
+An end-to-end data science pipeline for predicting telecom customer churn from raw data ingestion and exploratory data analysis (EDA) through feature engineering, model training, evaluation, and interactive dashboard deployment.
 
 ---
 
